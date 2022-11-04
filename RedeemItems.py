@@ -1,9 +1,5 @@
 """
-Title: INF452 Midterm Project
-Course Name: INF452 Design Studio V: Coding
-Instructor: Dr. Maher Elshakankiri
 Student Name: Qiaoru Zhang
-Student Number: 1004607758
 Date Created: 2021/12/13
 Last Updated: 2021/12/13
 
